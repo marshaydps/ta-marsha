@@ -1,0 +1,35 @@
+@media (max-width: 768px) {
+    /* Aturan CSS untuk perangkat dengan lebar maksimum 768px */
+    .container-fluid {
+        width: 100vw;
+    }
+    .sidebar {
+        width: 100vw;
+    }
+    .nav-item {
+        width: 100vw;
+    }
+    .span {
+        width: 100vw;
+    }
+    .btn {
+        width: 100vw;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    /* Aturan CSS untuk perangkat dengan lebar maksimum 576px */
+    .container-fluid {
+        width: 100vw;
+    }
+    .sidebar {
+        width: 100vw;
+    }
+    .nav-item {
+        width: 100vw;
+    }
+    .span {
+        width: 100vw;
+    }
+  }
+  
